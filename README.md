@@ -2,7 +2,7 @@
 
 💻 **Estudante de Sistemas de Informação** - Unifacisa  
 🚀 **Explorando o mundo da programação**:  
-   - **JavaScript** | **Python** | **Java**  
+   - **JavaScript**  
 🎮 **Apaixonado por games e desenvolvimento digital**  
 📍 **Sempre em busca de novos desafios e aprendizados**
 
@@ -19,9 +19,7 @@ Estou em fase de desenvolvimento e dominando o básico das linguagens de program
 ## Habilidades e Ferramentas
 
 ### Linguagens de Programação
-- **JavaScript** 
-- **Python** 
-- **Java** 
+- **JavaScript** (Em desenvolvimento)
 
 ### Ferramentas e Tecnologias
 - Git & GitHub
